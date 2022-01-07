@@ -4,6 +4,7 @@
     ../../modules/machine.nix
     ../../overlays
     ./git.nix
+    ./zsh.nix
     ./nvim.nix
   ];
 

@@ -32,6 +32,7 @@ in
         kubectx
         thefuck
         sqlite
+        powerline-go
     ];
 
     home.sessionPath = ["~/bin"];
@@ -53,7 +54,7 @@ in
             owner = "larkery";
             repo = "zsh-histdb";
             rev = "master";
-            sha256 = "0isbfmqd0slz4d9q6jxy09v5b3vs2pq1yicxqig36iadpxbawcbb";
+            sha256 = "sha256-gqsd+tW2d/Dyo1IhjSxW6SKsT5dDNvOM1EglzK4UAAM=";
           };
        }
        {

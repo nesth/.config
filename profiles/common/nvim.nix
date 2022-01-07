@@ -48,7 +48,7 @@ in {
         vim-airline-themes
         vim-signify
       ];
-      extraConfig = builtins.readFile ./init.vim;
+      extraConfig = builtins.readFile ./files/init.vim;
     };
 
     xdg.configFile."nvim/coc-settings.json".text = builtins.readFile ./coc-settings.json;
