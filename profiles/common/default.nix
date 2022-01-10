@@ -14,15 +14,13 @@
   home.packages = with pkgs; [
     coreutils
     fd
+    file
     gnused
     htop
     less
-    nixops
-    ranger
     ripgrep
     rsync
     wget
-    unstable.youtube-dl
   ];
   home.sessionVariables = {
     EDITOR = "nvim";
