@@ -21,6 +21,7 @@
     ripgrep
     rsync
     wget
+    tfenv
   ];
   home.sessionVariables = {
     EDITOR = "nvim";
