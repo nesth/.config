@@ -2,6 +2,7 @@
 {
   imports = [
     ../../profiles/common
+    ../../profiles/devel
     ../../services/nixos-vscode-ssh-fix.nix
   ];
 

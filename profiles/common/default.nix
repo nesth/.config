@@ -6,6 +6,7 @@
     ./git.nix
     ./zsh.nix
     ./nvim.nix
+    ./zip.nix
   ];
 
   nixpkgs.config = import ./nixpkgs-config.nix;
