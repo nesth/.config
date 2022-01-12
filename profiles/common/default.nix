@@ -22,6 +22,7 @@
     ripgrep
     rsync
     wget
+    thefuck
     tfenv
   ];
   home.sessionVariables = {
