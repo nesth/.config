@@ -21,9 +21,10 @@
     less
     ripgrep
     rsync
-    wget
+    terraform-ls
     thefuck
     tfenv
+    wget
   ];
   home.sessionVariables = {
     EDITOR = "nvim";
