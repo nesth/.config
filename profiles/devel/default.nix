@@ -5,8 +5,10 @@
   ];
 
   home.packages = with pkgs; [
-    yq-go
+    go-outline
     google-cloud-sdk
+    gopls
     gnumake
+    yq-go
   ];
 }
