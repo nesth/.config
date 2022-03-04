@@ -9,6 +9,7 @@
     google-cloud-sdk
     gopls
     gnumake
+    kubernetes-helm
     yq-go
   ];
 }
