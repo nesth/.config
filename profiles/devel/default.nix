@@ -11,5 +11,6 @@
     gnumake
     kubernetes-helm
     yq-go
+    yamale
   ];
 }
