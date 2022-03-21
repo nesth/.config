@@ -8,7 +8,7 @@ stdenvNoCC.mkDerivation rec {
         owner = "tfutils";
         repo = pname;
         rev = version;
-        sha256 = "sha256-xKX+aUIgNbKysxG8S4YPK5LE/1S07v5HN6zqdIbYiMw=";
+        sha256 = "sha256-qqO+vP7DieCxF5ezNN3rN0ktVj8Ikkmo0xbYdTAjCqc=";
     };
 
     dontConfigure = true;
