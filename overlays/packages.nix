@@ -13,4 +13,5 @@ let
 in
 {
   tfenv = self.callPackage ../packages/tfenv.nix {};
+  yq-go = self.callPackage ../packages/yq-go.nix {};
 }
